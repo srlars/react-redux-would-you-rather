@@ -1,0 +1,130 @@
+h1 {
+  font-size: 34px;
+  line-height: 48px;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 28px;
+  line-height: 34px;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+h3 {
+  font-size: 22px;
+  line-height: 28px;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+h4 {
+  margin: 0;
+}
+
+.container.content {
+  padding: 50px 0;
+}
+
+.card-title {
+  margin-bottom: 30px;
+}
+
+.avatar {
+  height: 160px;
+  border-radius: 80px;
+  margin: 1rem 0 0 2rem;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 3px solid #40c4ff;
+}
+
+header .avatar {
+  width: 30px;
+  height: 30px;
+  margin: 0 10px;
+  position: relative;
+  top: 10px;
+  border: 1px solid white;
+}
+
+.score {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 30px;
+  display: inline-block;
+  text-align: center;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background: #ddd;
+}
+
+center {
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #ddd;
+  font-weight: bold;
+}
+
+.btn-large {
+  margin-top: 20px;
+  color: #fff;
+}
+
+.card.question p,
+.card.question h4 {
+  margin-bottom: 20px;
+}
+
+.card-header {
+  padding: 20px;
+  border-top: 3px solid #00897b;
+  background: #00897b;
+  color: #fff;
+}
+
+.card-header h6 {
+  margin: 0;
+}
+
+.tab {
+  display: none;
+}
+
+.answered.tab.active,
+.unanswered.tab.active {
+  display: block;
+}
+
+.card-content .box {
+  padding: 15px;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.choice {
+  width: 70px;
+  height: 70px;
+  display: block;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background: #40c4ff;
+  color: #fff;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 70px;
+  font-size: 10px;
+}
