@@ -17,4 +17,4 @@ To run this project follow these steps:
 - Vote on questions asked by the other users
 - Score leaderboard
 
-![image_1](/src/screenshots/screenshot_1.png)
+![image_1](https://github.com/srlars/react-redux-would-you-rather/blob/master/src/screenshot/screenshot_1.png)
